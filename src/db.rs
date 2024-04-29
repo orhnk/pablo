@@ -1,0 +1,1 @@
+// Currently I'll use naive strings instead of abstracting the data.
